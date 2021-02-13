@@ -1,0 +1,8 @@
+#task-1
+x=input("ENTER THE VALUE OF RADIUS: ")
+r=int(x)
+A=3.14*r*r
+print("The value of Area is") 
+print(A)
+#################
+#task-2
